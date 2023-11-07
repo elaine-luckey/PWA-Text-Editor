@@ -51,6 +51,7 @@ THEN I should have proper build scripts for a webpack application
 
 ## Credits:
 Classmates at the UNC Coding Bootcamp
+
 ChatGPT
 
 ## License: 
