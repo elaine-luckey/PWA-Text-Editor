@@ -14,7 +14,7 @@ To create a single-page PWA text editor application running in the browser and d
 - [How to Contribute](#how-to-contribute)
 
 ## Link to Deployed Application
-https://nameless-anchorage-15060-872b1488b2e4.herokuapp.com/
+https://nameless-anchorage-15060-bab2816b3e13.herokuapp.com/
 
 ## Acceptance Criteria
 ```
